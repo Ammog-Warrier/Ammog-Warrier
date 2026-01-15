@@ -24,7 +24,7 @@
 <details>
   <summary>📊 Click to see my GitHub Stats</summary>
   <p align="center">
-    <img src="https://github-readme-stats-ammogs-projects.vercel.app/api?username=ammog-warrier&theme=tokyonight&show_icons=true&include_all_commits=true&v=fresh" alt="Ammog's GitHub stats">
+    <img src="https://github-readme-stats-git-master-ammogs-projects.vercel.app/api?username=ammog-warrier&theme=tokyonight&show_icons=true&include_all_commits=true" alt="Ammog's GitHub stats">
   </p>
 </details>
 
