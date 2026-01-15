@@ -25,14 +25,12 @@
 <details>
   <summary>📊 Click to see my GitHub Stats</summary>
   
-  <p align="center">
-    <a href="https://github.com/ammog-warrier">
-      <img 
-        src="https://github-readme-stats-ammogs-projects.vercel.app/api?username=ammog-warrier&theme=tokyonight&show_icons=true&include_all_commits=true" 
-        height="180" 
-      />
-    </a>
-  </p>
+ <p align="center">
+  <img 
+    src="https://github-readme-stats-ammogs-projects.vercel.app/api?username=ammog-warrier&theme=tokyonight&show_icons=true&include_all_commits=true&v=1" 
+    alt="Ammog's GitHub stats" 
+  />
+</p>
 </details>
 
 
