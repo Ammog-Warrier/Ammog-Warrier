@@ -25,9 +25,9 @@
 <details>
   <summary>📊 Click to see my GitHub Stats</summary>
   
- <p align="center">
+<p align="center">
   <img 
-    src="https://github-readme-stats-fast-7gqp4t64i-kushvinth-madhavans-projects.vercel.app/api?username=Ammog-Warrier&theme=tokyonight&show_icons=true&include_all_commits=true" 
+    src="https://github-readme-stats-ammogs-projects.vercel.app/api?username=ammog-warrier&theme=tokyonight&show_icons=true&include_all_commits=true&v=1" 
     alt="Ammog's GitHub stats" 
   />
 </p>
