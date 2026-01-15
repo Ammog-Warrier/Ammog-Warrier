@@ -30,7 +30,6 @@
       <img 
         src="https://github-readme-stats-ammogs-projects.vercel.app/api?username=ammog-warrier&theme=tokyonight&show_icons=true&include_all_commits=true" 
         height="180" 
-        alt="Ammog's Stats"
       />
     </a>
   </p>
