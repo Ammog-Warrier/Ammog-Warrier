@@ -23,9 +23,10 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-ammogs-projects.vercel.app/api?username=Ammog-Warrier&show_icons=true&theme=tokyonight&v=1"
+    src="https://github-readme-stats-ammogs-projects.vercel.app/api?username=ammog-warrier&show_icons=true&theme=tokyonight&cache_seconds=86400&v=1"
     alt="Ammog's GitHub stats"
   />
 </p>
+
 
 
