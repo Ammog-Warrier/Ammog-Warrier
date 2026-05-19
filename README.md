@@ -1,5 +1,5 @@
 <h1 align="center">Hi peeps, I'm Ammog Warrier</h1>
-<h3 align="center">I'm a passionate devoloper who loves Fullstack and Web3 devolopment and I'm always looking to solve harder problems everyday!</h3>
+<h3 align="center">I'm a passionate devoloper who loves Fullstack and Web3 devolopment and I'm always looking to solve harder problems everyday! I've been actively exploring Quantum Computing from some time now</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammog-warrier&label=Profile%20views&color=0e75b6&style=flat" alt="ammog-warrier" /> </p>
 
